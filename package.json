@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/yogabloom_sand_penguins/",
+    "build": "vite build --base=/119_html-css_OksanaWA/",
     "preview": "vite preview"
   },
   "devDependencies": {
